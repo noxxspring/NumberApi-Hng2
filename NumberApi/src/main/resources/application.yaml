@@ -1,0 +1,5 @@
+spring:
+   application:
+        name: NumberApi
+server:
+  port: 8020
